@@ -7,10 +7,10 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=adtyap26)
 [![Github](https://img.shields.io/github/followers/adtyap26?label=Follow&style=social)](https://github.com/adtyap26)
 
-<div size='20px'> Hi! My name is Aditya. I am a graduate English literature student from the State Islamic University of Syahid Jakarta.I recently discovered a new passion that involves working with Linux. I then began to educate myself on programming languages. My latest foray into programming is documented in this repository account.
+## About Me
+<div size='20px'> Hi! My name is Aditya. I am a graduate English literature student from the State Islamic University of Syahid Jakarta. I recently discovered a new passion that involves working with Linux. I then began to educate myself on programming languages. My latest foray into programming is documented in this repository account.
 </div>
 
-## About Me
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
