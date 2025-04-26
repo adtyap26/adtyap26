@@ -1,22 +1,18 @@
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=adtyap26)
 [![Github](https://img.shields.io/github/followers/adtyap26?label=Follow&style=social)](https://github.com/adtyap26)
 
 ## About Me
+
 <div size='20px'> Hi! My name is Aditya. I am a graduate English literature student from the State Islamic University of Syahid Jakarta. I recently discovered a new passion that involves working with Linux. I then began to educate myself on programming languages. My latest foray into programming is documented in this repository account.
 </div>
 
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-  
 - 🌱 Right now, I have a full interest in DevOps and am fascinated to learn about it.
-  
 
 ## Here's the list of tech stacks that I've learned so far.
 
@@ -38,12 +34,6 @@
 ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-
 ## The technologies that I am currently learning:
 
 ![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-  
-  
-  
-
